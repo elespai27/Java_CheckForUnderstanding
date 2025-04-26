@@ -1,6 +1,5 @@
-package StandardImputandFileHandling;
+package StandardInputandFileHandling;
 
-import java.rmi.ServerError;
 import java.util.Scanner;
 
 public class StandardInput {

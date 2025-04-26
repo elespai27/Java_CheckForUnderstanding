@@ -1,4 +1,4 @@
-package StandardImputandFileHandling.FileHandling;
+package StandardInputandFileHandling.FileHandling;
 
 import java.io.File;
 import java.io.FileWriter;
