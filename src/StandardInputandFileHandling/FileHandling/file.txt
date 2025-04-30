@@ -1,7 +1,0 @@
-Index,Year,Age,Name,Movie
-1,1980,35,William Lusting,Maniac
-2,1948,38,Akira Kurosawa,Drunken Angel
-3,1949,39,Akira Kurosawa,Stray Dog
-4,1966,36,Sergio Leone,"The Good, the Bad, and the Ugly"
-5,2013,40,Ben Wheatley,A Field In England
-6,2015,64,S. Craig Zahler,Bone Tomahawk
