@@ -1,0 +1,38 @@
+Equivalence Classes
+Instructions
+List positive and negative test cases for each of the following sets of requirements
+(You do not need to write the tests):
+
+Should divide two integers
+Answer: The result have be a positive Integer of the division of each one
+
+Positive test case: Divide two positive integers (e.g., 10 / 2 = 5)
+Negative test case: Divide by zero (e.g., 10 / 0 → error or exception)
+
+Should calculate the area of a square from an integer width
+Answer: The result have be the product of each integer width
+
+Positive test case: Calculate area with positive width (e.g., width = 4 → area = 16)
+Negative test case: Calculate area with negative width (e.g., width = -3 → invalid input)
+
+Should sum an array of integers
+Answer: The result have be the sum of each element of the list
+
+Positive test case: Sum an array with positive integers (e.g., [2,2)
+Positive test case: Sum an array with negative and positive integers (e.g., [5, -2, 3] → 6)
+Positive test case: Sum an empty array (e.g., [] → 0)
+
+Negative test case: Sum an array with non-integer elements (e.g., [1, "a", 3] → error)
+Negative test case: Sum a null array (e.g., null → error)
+
+Should identify the number that occurs the most frequently in an array
+Answer: The result have the element that is repeat in the list
+
+Positive test case: Array with a clear most frequent number (e.g., [1,)
+Positive test case: Array with all elements the same (e.g., [7, 7,
+Positive test case: Array with two numbers tied for most frequent (e.g., [1, or 2, depending on implementation)
+Positive test case: Array with only one element (e.g., → 5)
+
+Negative test case: Array is empty (e.g., [] → no result or error)
+Negative test case: Array contains non-integer elements (e.g., [2, "b", 2] → error)
+Negative test case: Array is null (e.g., null → error)

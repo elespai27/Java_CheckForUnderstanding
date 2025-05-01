@@ -1,4 +1,4 @@
-package com.ironhack;
+package com.ironhack.ListOfBook;
 
 public class Book {
     private String title;
